@@ -23,6 +23,8 @@ BTC Address: 1AGxSzTPkthdNKfY5usVLwKDLk9i6sPTQj
 `git clone https://github.com/carsenk/explorer`
 
 `npm install`
+`npm install --force`
+`npm update -g npm`
 
 `bower install`
 
